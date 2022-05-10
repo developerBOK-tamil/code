@@ -1,4 +1,4 @@
-package com.bok.algorithm;
+package com.bok.algorithm.sorting;
 
 import java.util.Arrays;
 
